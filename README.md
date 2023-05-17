@@ -8,6 +8,7 @@ Moro em São Paulo/SP, tenho 20 anos e sou fascinada por animais e tecnologia. E
 
 <p>
   <img src="https://tenor.com/pt-BR/view/dog-computer-votin-voting-typing-gif-16054137" width="350">
+<a href="https://tenor.com/view/dog-computer-votin-voting-typing-gif-16054137">Dog Computer Votin GIF</a>from <a href="https://tenor.com/search/dog-gifs">Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ## :computer: Ferramentas e Tecnologias
