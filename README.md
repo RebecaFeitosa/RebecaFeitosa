@@ -4,6 +4,7 @@
 <a href = "mailto:rebeca.feitosa60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rebeca-feitosa-11b609205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 ## Hey, Devs!
 Moro em São Paulo/SP, tenho 20 anos e sou fascinada por animais e tecnologia. Estou me aventurando nesse vasto universo de TI, aprendendo a programar e amando cada detalhe (por mais que eu passe raiva frequentemente):purple_heart:
 
