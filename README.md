@@ -4,7 +4,7 @@
   </a>
 
 ## Hey, Devs!
-Moro em São Paulo/SP, tenho 20 anos e sou fascinada por tecnologia e animais. Estou me aventurando nesse vasto universo de TI, aprendendo a programar e amando cada detalhe (por mais que eu passe raiva frequentemente):purple_heart:
+Moro em São Paulo/SP, tenho 20 anos e sou fascinada por tecnologia e animais. Estou me aventurando nesse vasto universo de TI, aprendendo a programar e amando cada detalhe (por mais que eu passe raiva frequentemente)
 
 <div align="center">
             <img src="https://github.com/RebecaFeitosa/RebecaFeitosa/assets/100243739/fbc0cd46-2286-40d5-865d-2e15be82f924" widht="150" height="150"/>
