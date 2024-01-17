@@ -18,7 +18,7 @@ Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. E
 <p>
  :mortar_board: Estou fazendo faculdade de Análise e Desenvolvimento de Sistemas
  
- :notebook: Venho estudando JavaScript, Linux, HTML, CSS e estou iniciando os estudos para desenvolver em PHP
+ :notebook: Venho estudando JavaScript, Cypress e PHP
  </p>
  
 <div>
