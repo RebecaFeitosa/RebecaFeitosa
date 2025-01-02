@@ -4,7 +4,7 @@
   </a>
 
 ## Hey, Devs!
-Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. Estou me aventurando nesse vasto universo de TI, aprendendo a programar e amando cada detalhe (por mais que eu passe raiva frequentemente)
+Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. Estou me aventurando nesse vasto universo de TI, em constante aprendizagem e amando cada detalhe (por mais que eu passe raiva frequentemente).
 
 <div align="center">
             <img src="https://github.com/RebecaFeitosa/RebecaFeitosa/assets/100243739/fbc0cd46-2286-40d5-865d-2e15be82f924" widht="150" height="150"/>
@@ -16,9 +16,8 @@ Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. E
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 <p>
- :mortar_board: Estou fazendo faculdade de Análise e Desenvolvimento de Sistemas
- 
- :notebook: Venho estudando JavaScript, Cypress e PHP
+ :mortar_board: Sou formada em Análise e Desenvolvimento de Sistemas
+  
  </p>
  
 <div>
