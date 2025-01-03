@@ -4,7 +4,7 @@
   </a>
 
 ## Hey, Devs!
-Moro em São Paulo/SP, tenho 22 anos e sou fascinada por testes. Sou formada em Análise e desenvolvimento de sistemas, em constante aprendizagem e amando cada detalhe (por mais que eu passe raiva frequentemente).
+Moro em São Paulo/SP, tenho 22 anos, sou formada em Análise e desenvolvimento de sistemas, em constante aprendizagem e amando cada detalhe (por mais que eu passe raiva frequentemente).
 
 <div align="center">
             <img src="https://github.com/RebecaFeitosa/RebecaFeitosa/assets/100243739/fbc0cd46-2286-40d5-865d-2e15be82f924" widht="150" height="150"/>
