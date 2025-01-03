@@ -4,7 +4,7 @@
   </a>
 
 ## Hey, Devs!
-Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. Estou me aventurando nesse vasto universo de TI, em constante aprendizagem e amando cada detalhe (por mais que eu passe raiva frequentemente).
+Moro em São Paulo/SP, tenho 22 anos e sou fascinada por testes. Sou formada em Análise e desenvolvimento de sistemas, em constante aprendizagem e amando cada detalhe (por mais que eu passe raiva frequentemente).
 
 <div align="center">
             <img src="https://github.com/RebecaFeitosa/RebecaFeitosa/assets/100243739/fbc0cd46-2286-40d5-865d-2e15be82f924" widht="150" height="150"/>
@@ -14,11 +14,6 @@ Moro em São Paulo/SP, tenho 21 anos e sou fascinada por tecnologia e animais. E
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<p>
- :mortar_board: Sou formada em Análise e Desenvolvimento de Sistemas
-  
- </p>
  
 <div>
 <a href="https://github.com/RebecaFeitosa">
